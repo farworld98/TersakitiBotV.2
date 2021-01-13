@@ -1,7 +1,7 @@
 {
-  "name": "Arelbot",
-  "version": "1.0.0",
-  "description": "Termux whatsapp bot",
+  "name": "Fajar & Debby BOT",
+  "version": "2.0.0",
+  "description": "TersakitiBotV.2",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrfzvx12/Arelbot"
+    "url": "git+https://github.com/Tersakiti404-cyber/TersakitiBotV.2/"
   },
   "keywords": [
     "K"
@@ -42,7 +42,7 @@
   "author": "mrf.zvx",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrfzvx12/Arelbot/issues"
+    "url": "https://github.com/Tersakiti404-cyber/TersakitiBotV.2/issues"
   },
-  "homepage": "https://github.com/mrfzvx12/Arelbot#readme"
+  "homepage": "https://github.com/Tersakiti404-cyber/TersakitiBotV.2#readme"
 }
