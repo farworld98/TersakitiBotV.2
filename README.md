@@ -1,11 +1,11 @@
 </p>
 <p align="center">
-<a href="#"><img title="Arelbot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Arelbot" src="https://img.shields.io/badge/TersakitiBotV.2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <p align="center">
-<a href="https://github.com/mrfzvx12/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfzvx12?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfzvx12/termux-whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfzvx12/termux-whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mrfzvx12/termux-whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfzvx12/termux-whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mrfzvx12/termux-whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrfzvx12/termux-whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Tersakiti404-cyber/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tersakiti404-cyber?color=blue&style=flat-square"></a>
+<a href="https://github.com/Tersakiti404-cyber/TersakitiBotV.2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tersakiti404-cyber/TersakitiBotV.2?color=red&style=flat-square"></a>
+<a href="https://github.com/Tersakiti404-cyber/TersakitiBotV.2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tersakiti404-cyber/TersakitiBotV.2?color=red&style=flat-square"></a>
+<a href="https://github.com/Tersakiti404-cyber/TersakitiBotV.2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tersakiti404-cyber/TersakitiBotV.2?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrfzvx12%2Ftermux-whatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"></a>
 </p>
@@ -261,9 +261,9 @@ Custom di sini [SETTING](https://github.com/mrfzvx12/Arelbot/blob/master/index.j
 | Donasi|✅|
 
 ## Contacts
-* [Instagram](https://www.instagram.com/mrf.zvx/)
-* [Facebook](https://www.facebook.com/profile.php?id=100028409167054)
-* My whatsapp bot [Arel Bot](https://wa.me/6281219700198)
+* [Instagram](https://www.instagram.com/mr.tersakiti_404/)
+* [Facebook](https://www.facebook.com/profile.php?id=100026383779553)
+* My whatsapp bot [Arel Bot](https://wa.me/+62813-3378-2061)
 
 
 ## Terimakasih untuk
