@@ -15,17 +15,17 @@ const speed = require('performance-now');
 const apivhtear = 'apivhtear';
 const apibarbar = 'apibarbar';
 const tobzkey = 'apitobz';
-const ovo = '082223014661';
-const pulsa = '082223014661';
-const dana = '082223014661';
-const BotName = 'Lexa'; 
-const instagram = 'https://www.instagram.com/mrf.zvx'; 
-const aktif = '08:00 - 22:00';
+const ovo = '081333782061';
+const pulsa = '081333782061';
+const dana = '081333782061';
+const BotName = 'Debby'; 
+const instagram = 'https://www.instagram.com/mr.tersakiti_404/'; 
+const aktif = 'SESUAI KEINGINAN OWNERNYA';
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
-            + 'FN:Mrf.zvx\n' // Nama kamu
-            + 'ORG:Lexa;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6282223014651:+62 822-2301-4661\n' //Nomor whatsapp kamu
+            + 'FN:Fajar\n' // Nama kamu
+            + 'ORG:Debby;\n' // Nama bot
+            + 'TEL;type=CELL;type=VOICE;waid=6281333782061:+62 813-3378-2061\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
@@ -75,11 +75,11 @@ fs.existsSync('./session.json') && conn.loadAuthInfo('./session.json')
 
 conn.connect();
 
-conn.on('user-presence-update', json => console.log(json.id + ' presence is => ' + json.type)) || console.log('Lexa Bot')
+conn.on('user-presence-update', json => console.log(json.id + ' presence is => ' + json.type)) || console.log('Debby Bot')
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : ''
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by ig:@mrf.zvx`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by ig:@mr.tersakiti_404`)
 })
 
 conn.on('message-new', async(m) =>
@@ -123,7 +123,7 @@ const truth =[
 'Bisa Jadi',
 'Coba tanyakan lagi',
 'Mungkin',
-'🤐']
+'GATAU NGENTOD']
 const ttrth = truth[Math.floor(Math.random() * truth.length)]
 conn.sendMessage(id, 'Pertanyaan : *'+teks+'*\n\nJawaban : '+ ttrth, MessageType.text, { quoted: m })
 }
@@ -138,7 +138,7 @@ const truth =[
 'Tidak',
 'Mungkin',
 'Jangan',
-'🤐']
+'GABOLEH YA KONTOL']
 const ttrth = truth[Math.floor(Math.random() * truth.length)]
 conn.sendMessage(id, 'Pertanyaan : *'+teks+'*\n\nJawaban : '+ ttrth, MessageType.text, { quoted: m })
 }
@@ -180,7 +180,7 @@ const truth =[
 'Tahun depan',
 'Bulan depan',
 'Sebentar lagi',
-'🤐']
+'Sepertinya Anda Jones Selamanya']
 const ttrth = truth[Math.floor(Math.random() * truth.length)]
 conn.sendMessage(id, 'Pertanyaan : *'+teks+'*\n\nJawaban : '+ ttrth, MessageType.text, { quoted: m })
 }
@@ -336,7 +336,7 @@ if (text.includes('.map')){
 
 //Donasi
 if (text.includes('.donasi')){
-conn.sendMessage(id, `Mau donai agar bot bisa terus berjalan.
+conn.sendMessage(id, `Mau donasi agar bot bisa terus berjalan.
 
  اتَّقوا النَّارَ ولو بشقِّ تمرةٍ ، فمن لم يجِدْ فبكلمةٍ طيِّبةٍ
 _“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). Jika kamu tidak punya, maka bisa dengan kalimah thayyibah” [HR. Bukhari 6539, Muslim 1016]_
@@ -352,7 +352,7 @@ conn.sendMessage(id, 'Bot bermasalah ? laporkan fitur error ke owner, ketik .own
 }
  //install
 if (text.includes('.install')){
-conn.sendMessage(id, 'How to install whatsapp bot on android\n*Tutorial* : https://github.com/mrfzvx12/termux-whatsapp-bot',MessageType.text, { quoted: m } );
+conn.sendMessage(id, 'How to install whatsapp bot on android\n*Tutorial* : Youtube Banyak Bro',MessageType.text, { quoted: m } );
 }
  //intro grup
 if (text.includes('.intro')){
